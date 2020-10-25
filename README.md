@@ -1,3 +1,8 @@
+TimWhite.io
+====
+This site is based on the Pico CMS front-end framework. 
+
+
 Pico
 ====
 
