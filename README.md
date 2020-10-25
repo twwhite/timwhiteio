@@ -1,6 +1,6 @@
 TimWhite.io
 ====
-This site is based on the Pico CMS front-end framework. 
+This site is based on the Pico CMS front-end framework. The public site mainly serves as a personal blog & professional resume/project summary repository.
 
 
 Pico
